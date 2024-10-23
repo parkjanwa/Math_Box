@@ -5,4 +5,5 @@ def add(a, b):
 def substract(a,b):
     return a-b
 
-print("hello")
+def multiply(a, b):
+    return a*b
